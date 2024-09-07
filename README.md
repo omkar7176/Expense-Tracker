@@ -37,12 +37,12 @@ expense_tracker/
 
 ## Usage
 
-**Once the application is running, you will be prompted with a menu:**<br/>
-**Add a new expense.**<br/>
-**View a summary of your monthly expenses.**<br/>
-**View a summary of expenses by category.**<br/>
-**Save the data and exit the application.**<br/>
-**Example of adding an expense:**
+**1. Once the application is running, you will be prompted with a menu:**<br/>
+**2. Add a new expense.**<br/>
+**3. View a summary of your monthly expenses.**<br/>
+**4. View a summary of expenses by category.**<br/>
+**5. Save the data and exit the application.**<br/>
+**6. Example of adding an expense:**
 
 ```plaintext
 Enter date (YYYY-MM-DD): 2024-09-01
