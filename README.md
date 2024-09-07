@@ -29,8 +29,8 @@ expense_tracker/
 
 ## Installation
 
-**1. Clone the repository:**  git clone https://github.com/your-username/expense-tracker.git
-**2. Navigate to the project directory:**  cd Expense-Tracker
+**1. Clone the repository:**  git clone https://github.com/your-username/expense-tracker.git<br/>
+**2. Navigate to the project directory:**  cd Expense-Tracker<br/>
 **3. Run the application:**  python main.py
 
 
@@ -63,12 +63,7 @@ Enter choice: 2
 
 Total spent in 2024-09: 150.75
 
-
 ```
 ## Contributing
 ```plaintext
 If you'd like to contribute, feel free to fork the repository and submit a pull request. Any suggestions or improvements are welcome!
-
-
-
-
