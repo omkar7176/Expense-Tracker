@@ -25,8 +25,7 @@ expense_tracker/
 ├── interface.py              # Command-line interface for user interaction
 └── categories.py             # Handles predefined expense categories
 
-
-
+```
 
 ## Installation
 
@@ -52,7 +51,7 @@ Enter amount: 10.50
 Enter description: Lunch at a restaurant
 Expense added successfully!
 
-
+```
 **Example of viewing a summary:**
 ```plaintext
 Expense Tracker Menu:
@@ -65,7 +64,7 @@ Enter choice: 2
 Total spent in 2024-09: 150.75
 
 
-
+```
 ## Contributing
 ```plaintext
 If you'd like to contribute, feel free to fork the repository and submit a pull request. Any suggestions or improvements are welcome!
