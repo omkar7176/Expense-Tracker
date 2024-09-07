@@ -27,4 +27,49 @@ expense_tracker/
 
 
 
-<h1>Installation</h1>
+
+## Installation
+
+**1. Clone the repository:**  git clone https://github.com/your-username/expense-tracker.git
+**2. Navigate to the project directory:**  cd Expense-Tracker
+**3. Run the application:**  python main.py
+
+
+
+## Usage
+
+**Once the application is running, you will be prompted with a menu:**
+**Add a new expense.**
+**View a summary of your monthly expenses.**
+**View a summary of expenses by category.**
+**Save the data and exit the application.**
+**Example of adding an expense:**
+
+```plaintext
+Enter date (YYYY-MM-DD): 2024-09-01
+Enter expense category (e.g., Food, Transport): Food
+Enter amount: 10.50
+Enter description: Lunch at a restaurant
+Expense added successfully!
+
+
+**Example of viewing a summary:**
+```plaintext
+Expense Tracker Menu:
+1. Add Expense
+2. View Monthly Summary
+3. View Category Summary
+4. Save and Exit
+Enter choice: 2
+
+Total spent in 2024-09: 150.75
+
+
+
+## Contributing
+```plaintext
+If you'd like to contribute, feel free to fork the repository and submit a pull request. Any suggestions or improvements are welcome!
+
+
+
+
