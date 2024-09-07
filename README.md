@@ -3,7 +3,7 @@
 The **Expense Tracker** is a Python-based application that allows users to track their daily expenses, categorize them, and analyze their spending patterns. This project is developed as part of a Python Programming internship and helps users manage their finances efficiently.
 
 ## Features
-
+## Omkar
 - **User Input**: Add daily expenses with details like date, category, amount, and description.
 - **Data Storage**: All expense data is saved in a `JSON` file for persistence.
 - **Expense Categories**: Organize expenses into different categories (e.g., Food, Transport, Entertainment, etc.).
@@ -28,7 +28,7 @@ expense_tracker/
 
 
 
-## Installation 
+## Installation
 
 **1. Clone the repository:**  git clone https://github.com/your-username/expense-tracker.git
 **2. Navigate to the project directory:**  cd Expense-Tracker
